@@ -28,6 +28,7 @@
 * [Not for Ants](#not-for-ants)
 * [YNO Expeditions Enhancer](#yno-expeditions-enhancer)
 * [Emoji Autocorrect](#emoji-autocorrect)
+* [YNO Name Change Tracker](#yno-name-change-tracker)
 * [YouTubeify](#youtubeify)
 * [Emoji Copy](#emoji-copy)
 * [Sane Date Format](#sane-date-format)
@@ -98,6 +99,12 @@ YNO Emoji Autocorrect
 * :Uro: → :uro:
 * :mdao: → :mado:
 * Compatible With Commumojis
+
+# [YNO Name Change Tracker](https://gist.github.com/AcrylonitrileButadieneStyrene/4936f284b2d08d25a8872d8a6d4b1b99)
+
+by [AcrylonitrileButadieneStyrene](https://github.com/AcrylonitrileButadieneStyrene)
+
+Detects when a user's name has changed (primarily for guests) 
 
 # [YouTubeify](https://gist.github.com/Daeloth/fd7695e84f903985a421d50f1dd481ee)
 
